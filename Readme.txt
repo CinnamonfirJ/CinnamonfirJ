@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋🏽, I'm Jesse Wisdom</h1>
 <p align="center">
-  A resilient developer & lifelong learner
+  A resilient developer & lifelong learner from Nigeria 🇳🇬
 </p>
 
 ---
@@ -10,6 +10,8 @@
 Hi there! I'm Jesse, a 23-year-old developer driven by persistence, curiosity, and an unshakable desire to build amazing things through code. My journey into tech began at age 14, where I explored game development, 3D modeling, and animation—long before I had the structure or platform to showcase it.
 
 Due to health and academic challenges, I had to pause—but never gave up. Today, I’m back, more determined than ever—learning, building, and catching up with purpose.
+
+> 🧬 Living with sickle cell anemia has shaped my discipline and drive. Every line of code I write today is a statement: I’m still here—and I’m just getting started.
 
 ---
 
@@ -43,11 +45,10 @@ Due to health and academic challenges, I had to pause—but never gave up. Today
 
 ### 🧩 Let’s Connect
 
-<!-- - 🧵 Twitter: [@cinnamonfir](https://twitter.com/cinnamonfir) -->
-<!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](#) -->
-
+- 🧵 Twitter: [@cinnamonfir](https://twitter.com/cinnamonfir)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)
 - 🌐 Portfolio: [Coming Soon!](#)
-- 📧 Email: jwdigitalsolutions@gmail.com
+- 📧 Email: jessewisdom.asynctechs@gmail.com
 
 ---
 
