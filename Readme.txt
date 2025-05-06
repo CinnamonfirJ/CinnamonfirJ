@@ -37,6 +37,28 @@ Due to health and academic challenges, I had to pause—but never gave up. Today
 
 ---
 
+### 🗓️ 2025 Roadmap (from June onward)
+
+#### 📚 June – July
+- Complete at least 2 full-stack projects for your portfolio
+- Contribute to 1 open-source project
+- Learn and deploy 2 smart contracts using Solidity + Hardhat
+- Finish 1 Arduino-based mini project
+
+#### 🎮 August – September
+- Build and release a **demo** of your indie game in Godot
+- Learn about vector math & physics for 2D games
+- Join one online game dev jam or AI hackathon
+- Launch a mini AI chatbot/agent using LangChain
+
+#### 🏫 October – December
+- Prioritize school for exams & wrap-up
+- Document your learning journey weekly on GitHub or a blog
+- Polish and publish your best work on a personal portfolio site
+- Prepare for 2026 with a clear personal dev goal
+
+---
+
 ### 🧠 Quote I Live By
 
 > “Success is not final, failure is not fatal: It is the courage to continue that counts.” – Winston Churchill
