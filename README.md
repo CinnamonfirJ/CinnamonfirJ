@@ -46,7 +46,7 @@ Due to health and academic challenges, I had to pause—but never gave up. Today
 <!-- - 🧵 Twitter: [@cinnamonfir](https://twitter.com/cinnamonfir) -->
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](#) -->
 
-- 🌐 Portfolio: [Coming Soon!](#)
+- 🌐 Portfolio: jessewisdom.vercel.app
 - 📧 Email: jwdigitalsolutions@gmail.com
 
 ---
